@@ -1,8 +1,8 @@
 Turbidity Monitoring System using Arduino
 
 
-Overview
-T:he Turbidity Monitoring System is an Arduino-based project used to measure the turbidity level of water. Turbidity indicates the presence of suspended particles that make water appear cloudy or unclear. This system helps in monitoring water quality in real time using a turbidity sensor and an LCD display.
+Overview:
+The Turbidity Monitoring System is an Arduino-based project used to measure the turbidity level of water. Turbidity indicates the presence of suspended particles that make water appear cloudy or unclear. This system helps in monitoring water quality in real time using a turbidity sensor and an LCD display.
 The sensor continuously detects water clarity and sends analog data to the Arduino board. The Arduino processes the sensor values and displays the turbidity level on the LCD screen in NTU (Nephelometric Turbidity Units).
 
 Components Used:
